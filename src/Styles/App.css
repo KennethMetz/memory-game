@@ -1,38 +1,126 @@
+@font-face {
+  font-family: "main";
+  src: url("./NovaFlat-Regular.ttf");
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  margin: 0px;
+  font-family: "main";
+  background-color: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#header {
+  height: 150px;
+  font-size: 48px;
+  font-weight: 400;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#instructions {
+  font-size: 20px;
+  margin-bottom: 24px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#score,
+#hiScore {
+  font-size: 36px;
+  margin: 12px;
+}
+
+#tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 20px;
+  border: #f4ce4c solid 2px;
+  /* box-shadow: gray 10px 10px 10px; */
+}
+
+.card:hover {
+  box-shadow: gray 0px 0px 30px;
+}
+
+#a {
+  background: url(./Gary_looking_up_stock_art.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#b {
+  background: url(./Sandy_Cheeks.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#c {
+  background: url(./SpongeBob_SquarePants_character.svg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#d {
+  background: url(./Squidward_Tentacles.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#e {
+  background: url(./Mr._Krabs.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#f {
+  background: url(./Pearl_the_Whale.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#g {
+  background: url(./Mrs._Puff.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#h {
+  background: url(./Clipart994125.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#i {
+  background: url(./Patrick_Star.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#j {
+  background: url(./Karen-blue-form-stock-art.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#k {
+  background: url(./Larry_the_Lobster_stock_image_standing.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#l {
+  background: url(./Squilliam_Fancyson_model.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }

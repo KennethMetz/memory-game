@@ -1,12 +1,11 @@
-import "./App.css";
-import Game from "./Components/game";
+import React from "react";
+import Game from "./Components/game.js";
+import "./Styles/App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <Game />
     </div>
   );
 }
-
-export default App;
