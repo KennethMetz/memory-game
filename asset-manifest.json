@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.8f41c06c.css",
+    "main.js": "/memory-game/static/js/main.56122b41.js",
+    "static/media/Mrs._Puff.svg.png": "/memory-game/static/media/Mrs._Puff.svg.6dbe5619970ed6fa2d84.png",
+    "static/media/Sandy_Cheeks.svg.png": "/memory-game/static/media/Sandy_Cheeks.svg.6d64de103fa808559fd4.png",
+    "static/media/SpongeBob_SquarePants_character.svg.png": "/memory-game/static/media/SpongeBob_SquarePants_character.svg.9d15c087ef2aa0fac6e6.png",
+    "static/media/Patrick_Star.svg.png": "/memory-game/static/media/Patrick_Star.svg.3e895663737a8b42122a.png",
+    "static/media/Squidward_Tentacles.svg.png": "/memory-game/static/media/Squidward_Tentacles.svg.97336c82f2f5b93ae448.png",
+    "static/media/Mr._Krabs.svg.png": "/memory-game/static/media/Mr._Krabs.svg.52a05f9cbd8fef006d23.png",
+    "static/media/Larry_the_Lobster_stock_image_standing.webp": "/memory-game/static/media/Larry_the_Lobster_stock_image_standing.47cca4b48ce30f042940.webp",
+    "static/media/NovaFlat-Regular.ttf": "/memory-game/static/media/NovaFlat-Regular.f187b6b105a27ec5ea9b.ttf",
+    "static/media/Pearl_the_Whale.svg.png": "/memory-game/static/media/Pearl_the_Whale.svg.650f436039b3403bca9d.png",
+    "static/media/Gary_looking_up_stock_art.webp": "/memory-game/static/media/Gary_looking_up_stock_art.dad826a02699c295791a.webp",
+    "static/media/Karen-blue-form-stock-art.webp": "/memory-game/static/media/Karen-blue-form-stock-art.d3e488658a24882cec8d.webp",
+    "static/media/Clipart994125.webp": "/memory-game/static/media/Clipart994125.992187445698b789c1a0.webp",
+    "static/media/Squilliam_Fancyson_model.webp": "/memory-game/static/media/Squilliam_Fancyson_model.1cd04d2bf571a5e9547d.webp",
+    "index.html": "/memory-game/index.html",
+    "main.8f41c06c.css.map": "/memory-game/static/css/main.8f41c06c.css.map",
+    "main.56122b41.js.map": "/memory-game/static/js/main.56122b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f41c06c.css",
+    "static/js/main.56122b41.js"
+  ]
+}
